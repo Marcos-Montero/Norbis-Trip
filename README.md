@@ -29,9 +29,9 @@
 4. amor
 5. compartir
 6. atencion *(bifurcation to 7 and 10)*
-    7. vicio
-    8. error
-    9. bucle *(end of loop, back to 6)*
+7. vicio
+8. error
+9. bucle *(end of loop, back to 6)*
 10. seguridad
 11. sueños
 12. felicidades
