@@ -1,4 +1,6 @@
-Norbis Trip
+# Norbis Trip
+
+### Gymkana App for Norbis' birthday.
 
 1 - Install last version of node.js from nodejs.org
 
