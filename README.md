@@ -8,16 +8,18 @@
 
 3 - Enjoy the Trip.
 
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
-*Spoiler Alert*
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+#### Spoiler Alert
+
 
 ### Answer Roadmap
 
