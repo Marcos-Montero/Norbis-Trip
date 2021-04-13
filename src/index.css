@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black;
+}
+.titulo {
+  font-family: "Press Start 2P", cursive;
+}
+.input-field > label {
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.5rem;
+  color: white;
+}
+input {
+  color: white;
+  text-align: center;
+}
+.pregunta {
+  font-family: "Press Start 2P", cursive;
+}
+#victory {
+  position: absolute;
+  background: red;
+  animation: fontbulger 2s infinite;
+  font-family: "Press Start 2P", cursive;
+}
+@keyframes fontbulger {
+  0% {
+    margin: 2rem;
+    font-size: 4rem;
+  }
+  30% {
+    font-size: 5rem;
+  }
+  100% {
+    font-size: 4rem;
+  }
+}
